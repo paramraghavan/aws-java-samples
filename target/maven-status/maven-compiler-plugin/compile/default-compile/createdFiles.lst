@@ -1,0 +1,16 @@
+com/pluralsight/dynamodb/domain/SupportMessage.class
+com/pluralsight/dynamodb/module4/PoplulateComments.class
+com/pluralsight/dynamodb/module4/PopulateQueryMessages.class
+com/pluralsight/dynamodb/module4/QueryComments.class
+com/pluralsight/dynamodb/dao/CommentDao.class
+com/pluralsight/dynamodb/dao/LocalDateTimeConverter.class
+com/pluralsight/dynamodb/module3/PutGetDemo.class
+com/pluralsight/dynamodb/Utils.class
+com/pluralsight/dynamodb/module4/HighLevelDemo.class
+com/pluralsight/dynamodb/dao/lowLevel/ItemDao.class
+com/pluralsight/dynamodb/domain/Comment.class
+com/pluralsight/dynamodb/module4/QuerySupportMessages.class
+com/pluralsight/dynamodb/domain/ShopItem.class
+com/pluralsight/dynamodb/dao/SupportMessageDao.class
+com/pluralsight/dynamodb/module4/OptimisticLocking.class
+com/pluralsight/dynamodb/dao/ShopItemDao.class

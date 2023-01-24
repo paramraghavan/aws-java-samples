@@ -1,0 +1,16 @@
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/domain/Comment.java
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/dao/CommentDao.java
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/module3/PutGetDemo.java
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/domain/SupportMessage.java
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/dao/SupportMessageDao.java
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/domain/ShopItem.java
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/module4/HighLevelDemo.java
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/module4/QuerySupportMessages.java
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/module4/OptimisticLocking.java
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/Utils.java
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/module4/PopulateQueryMessages.java
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/dao/lowLevel/ItemDao.java
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/dao/LocalDateTimeConverter.java
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/module4/PoplulateComments.java
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/dao/ShopItemDao.java
+/Users/praghavan/development/aws/sample1/src/main/java/com/pluralsight/dynamodb/module4/QueryComments.java
