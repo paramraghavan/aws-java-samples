@@ -15,6 +15,13 @@
 - Partition Key <===> Hash Key
 - Sort Key        <===> Range Key
 - <img src="https://user-images.githubusercontent.com/52529498/214911292-19fd8a29-39e3-4f83-ae19-6fec8fa11b9b.png" width=50% height=50%>
+- Transaction API to the rescue
+- transactWriteItems(Consumer<TransactWriteItemsEnhancedRequest.Builder> requestConsumer)
+Writes and/or modifies multiple items from one or more tables in a single atomic transaction. TransactGetItem is a composite operation where the request contains a set of up to 25 action requests, each containing a table reference and one of the following requests:
+* Condition check of item - ConditionCheck
+* Delete item - DeleteItemEnhancedRequest
+* Put item - PutItemEnhancedRequest
+* Update item - UpdateItemEnhancedRequest
 
 
 # Java dynamodb
@@ -24,6 +31,9 @@
 - https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBMapper.BatchWriteExample.html
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/transaction-apis.html
 - https://mkyong.com/java/how-to-check-which-jdk-version-compiled-the-class/
+- https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_TransactWriteItems.html
+-http://docs.glngn.com/latest/api/software.amazon.awssdk.dynamodb/software/amazon/awssdk/services/dynamodb/model/TransactWriteItemsRequest.Builder.html#transactItems-java.util.Collection-
+-https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/enhanced/dynamodb/DynamoDbEnhancedClient.html#transactWriteItems(java.util.function.Consumer)
 
 # Check ports open/bound for listening,
 - lsof -i -P | grep LISTEN | grep $PORT
