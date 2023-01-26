@@ -22,6 +22,8 @@ Writes and/or modifies multiple items from one or more tables in a single atomic
   * Delete item - DeleteItemEnhancedRequest
   * Put item - PutItemEnhancedRequest
   * Update item - UpdateItemEnhancedRequest
+  * <img src="https://user-images.githubusercontent.com/52529498/214924115-2428654f-b7bb-4ea1-a634-c5602952b5f5.png" width=50% height=50%>
+
 
 
 # Java dynamodb
