@@ -50,7 +50,8 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/transaction-api
 -http://docs.glngn.com/latest/api/software.amazon.awssdk.dynamodb/software/amazon/awssdk/services/dynamodb/model/TransactWriteItemsRequest.Builder.html#transactItems-java.util.Collection-
 -https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/enhanced/dynamodb/DynamoDbEnhancedClient.html#transactWriteItems(java.util.function.Consumer)
 - https://github.com/aws/aws-sdk-java-v2/blob/master/archetypes/archetype-app-quickstart/README.md
-- https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/javav2/example_code
+- https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/javav2/example_code *
+- https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/java
 
 # Check ports open/bound for listening,
 - lsof -i -P | grep LISTEN | grep $PORT
