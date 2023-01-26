@@ -14,7 +14,7 @@
 - ItemCollectionSizeLimitExceededException - Collection is too large
 - Partition Key <===> Hash Key
 - Sort Key        <===> Range Key
-- ![image](https://user-images.githubusercontent.com/52529498/214911292-19fd8a29-39e3-4f83-ae19-6fec8fa11b9b.png)
+- <img src="https://user-images.githubusercontent.com/52529498/214911292-19fd8a29-39e3-4f83-ae19-6fec8fa11b9b.png" width=50% height=50%>
 
 
 # Java dynamodb
