@@ -30,6 +30,11 @@ Writes and/or modifies multiple items from one or more tables in a single atomic
    , new AttributeValue().withN("6"): "versionIncrement"
 new AttributeValue().withN(“1”)
 ));
+
+import software.amazon.awssdk.services.dynamodb.model.TransactionCanceledException;
+
+TransactionCanceledException t) {
+    t.cancellationReasons()
 ```
 
 
