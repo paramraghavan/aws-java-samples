@@ -53,6 +53,7 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/transaction-api
 - https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/javav2/example_code *
 - https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/java
 - https://nightlies.apache.org/flink/flink-docs-master/docs/deployment/filesystems/s3/
+- https://catalog.us-east-1.prod.workshops.aws/workshops/429cec9e-3222-4943-82f7-1f45c45ed99a/en-US/1-localdev/modify-template-code
 
 # Check ports open/bound for listening,
 - lsof -i -P | grep LISTEN | grep $PORT
