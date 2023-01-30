@@ -1,1 +1,1 @@
-- keyBy, same as grouBy
+- keyBy, same as groupBy
